@@ -16,6 +16,7 @@ datasets/bdd100k
 datasets/photo2art
 datasets/Cityscapes
 datasets/ADEChallengeData2016
+datasets/green2cherry
 models/networks/sync_batchnorm
 results*
 srun_scripts
